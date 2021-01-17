@@ -28,4 +28,4 @@ All three formats are available including a Snapshot to bring your wallets onto 
 
 Wire Team
 
-"# Wire" 
+
