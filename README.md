@@ -18,7 +18,7 @@ A fully developed marketplace that allows transactions to occur in WIRE tokens o
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Update January 2021
+### Update January 2021
 
 We have fixed a number of issues with the Wire Wallet causing it to Fork and also to crash repeatedly. The wallets have been updated sufficiently to ensure everyone will be able to swap to the new ERC20 Token by moving their Wire into their Wallets.
 
@@ -26,6 +26,6 @@ All three formats are available including a Snapshot to bring your wallets onto 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Wire Team
+### Wire Team
 
 
