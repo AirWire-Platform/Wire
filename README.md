@@ -1,4 +1,5 @@
 ![airwire0](https://user-images.githubusercontent.com/47160963/104847346-61fb3c80-58d7-11eb-987c-0efa64ff4041.png)
+![logo-marketing](https://user-images.githubusercontent.com/47160963/104847680-82c49180-58d9-11eb-929e-5a4946b10423.png)
 ### Wire 
 
 The Cryptocurrency
