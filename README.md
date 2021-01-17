@@ -1,3 +1,4 @@
+https://avatars1.githubusercontent.com/u/77127602?s=400&v=4
 ### Wire 
 
 The Cryptocurrency
